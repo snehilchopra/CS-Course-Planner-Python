@@ -1,0 +1,66 @@
+﻿CRN,Subject,Number,Title,Section,Type,Term,Instructor,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,E,F,Average
+31018,CS,101,Intro Computing: Engrg & Sci,AL1,LEC,120131,"Gambill, Thomas N",57,43,40,37,25,22,16,12,9,8,1,2,0,2,3.28
+31020,CS,101,Intro Computing: Engrg & Sci,AL2,LEC,120131,"Gambill, Thomas N",47,42,31,30,19,23,22,12,13,6,4,2,8,3,3.08
+31128,CS,105,Intro Computing: Non-Tech,AL2,LEC,120131,"Zhao, Kai",17,55,22,26,27,15,6,12,3,3,3,0,3,2,3.26
+31129,CS,105,Intro Computing: Non-Tech,AL3,LEC,120131,"Zhao, Kai",21,62,32,34,27,9,10,4,1,3,0,0,1,0,3.45
+31130,CS,105,Intro Computing: Non-Tech,AL4,LEC,120131,"Zhao, Kai",21,64,32,24,26,10,11,5,1,1,1,0,1,0,3.46
+31152,CS,125,Intro to Computer Science,AL1,LEC,120131,"Angrave, Lawrence C",26,41,23,23,11,9,6,11,7,0,5,1,6,1,3.19
+31155,CS,125,Intro to Computer Science,AL2,LEC,120131,"Angrave, Lawrence C",21,47,27,13,12,7,8,17,3,0,5,0,10,2,3.13
+31187,CS,173,Discrete Structures,ADA,DIS,120131,"Fleck, Margaret M",0,3,5,6,4,3,3,1,1,0,1,0,0,0,3.04
+48263,CS,173,Discrete Structures,ADB,DIS,120131,"Fleck, Margaret M",1,4,5,3,2,2,2,1,2,3,0,0,0,0,2.95
+48264,CS,173,Discrete Structures,ADC,DIS,120131,"Fleck, Margaret M",2,4,2,2,4,6,3,1,1,0,0,0,0,0,3.07
+57329,CS,173,Discrete Structures,ADD,DIS,120131,"Fleck, Margaret M",0,5,2,5,5,2,3,2,4,2,0,1,0,0,2.75
+57330,CS,173,Discrete Structures,ADE,DIS,120131,"Fleck, Margaret M",0,6,2,2,5,3,1,4,0,0,1,3,1,0,2.66
+57446,CS,173,Discrete Structures,ADF,DIS,120131,"Fleck, Margaret M",1,2,8,3,2,3,0,2,1,0,1,0,0,0,3.13
+48265,CS,173,Discrete Structures,ADG,DIS,120131,"Fleck, Margaret M",2,3,2,3,4,2,2,4,1,2,2,0,0,0,2.73
+48266,CS,173,Discrete Structures,BDA,DIS,120131,"Fleck, Margaret M",1,4,3,6,4,4,2,2,1,1,2,0,1,0,2.82
+48267,CS,173,Discrete Structures,BDB,DIS,120131,"Fleck, Margaret M",1,4,6,3,4,1,2,2,0,0,0,1,2,1,2.92
+50441,CS,173,Discrete Structures,BDC,DIS,120131,"Fleck, Margaret M",2,6,4,3,4,0,3,2,1,0,2,1,1,0,2.9
+50442,CS,173,Discrete Structures,BDD,DIS,120131,"Fleck, Margaret M",2,4,3,1,8,2,5,2,1,0,0,1,1,0,2.86
+51087,CS,173,Discrete Structures,BDE,DIS,120131,"Fleck, Margaret M",4,2,3,4,4,3,0,2,1,0,1,0,2,2,2.89
+51089,CS,173,Discrete Structures,BDF,DIS,120131,"Fleck, Margaret M",1,3,3,5,4,2,3,2,0,3,0,1,1,1,2.74
+50093,CS,173,Discrete Structures,BDG,DIS,120131,"Fleck, Margaret M",2,7,3,2,4,4,2,3,0,0,0,0,0,0,3.22
+31193,CS,196,Freshman Honors,25,LCD,120131,"Angrave, Lawrence C",2,11,18,2,0,0,0,0,0,0,0,0,2,0,3.56
+31195,CS,196,Freshman Honors,73,LCD,120131,"Fleck, Margaret M",4,6,5,7,0,1,2,0,0,0,1,0,1,1,3.33
+31197,CS,199,Undergraduate Open Seminar,LA1,LEC,120131,"Angrave, Lawrence C",0,36,0,0,1,0,0,2,0,0,0,0,4,1,3.51
+31205,CS,210,Ethical & Professional Issues,1,LCD,120131,"Miller, Keith W",0,46,1,0,31,1,0,8,0,0,2,0,0,0,3.39
+31208,CS,225,Data Structures,AL1,LEC,120131,"Heeren, Cinda",9,35,29,6,18,9,9,22,0,0,13,0,11,0,2.85
+31213,CS,225,Data Structures,AL2,LEC,120131,"Heeren, Cinda",6,37,40,12,23,8,5,26,0,0,13,0,7,0,2.97
+59777,CS,225,Data Structures,AL3,LEC,120131,"Heeren, Cinda",0,3,2,1,6,6,2,4,0,0,3,0,2,0,2.49
+59778,CS,225,Data Structures,AL4,LEC,120131,"Heeren, Cinda",0,2,4,3,2,2,1,4,0,0,4,0,2,0,2.43
+43556,CS,241,System Programming,AL1,LEC,120131,"Caccamo, Marco",6,18,16,25,30,14,8,17,23,0,8,0,21,2,2.5
+43557,CS,242,Programming Studio,AL1,LEC,120131,"Woodley, Michael J",18,98,16,12,8,4,2,0,1,0,0,0,2,0,3.75
+31262,CS,296,Honors Course,25,LCD,120131,"Heeren, Cinda",3,28,7,5,5,3,1,7,0,0,0,0,6,0,3.16
+50106,CS,357,Numerical Methods I,M,LCD,120131,"Shaffer, Eric G",2,91,42,7,22,11,4,6,3,0,4,0,3,0,3.46
+50142,CS,373,Theory of Computation,AL1,LEC,120131,"Viswanathan, Mahesh",12,60,19,16,16,18,9,19,10,1,0,0,1,0,3.23
+58541,CS,398,Computer Architecture,AL1,LEC,120131,"Zilles, Craig",9,34,24,5,54,8,6,25,3,0,13,0,16,0,2.75
+46258,CS,410,Text Information Systems,B3,LEC,120131,"Zhai, Chengxiang",19,43,10,13,13,6,1,1,0,0,0,0,0,1,3.68
+31352,CS,411,Database Systems,N3,LCD,120131,"Cunningham, Ryan M",16,87,12,15,43,0,2,8,0,0,0,0,0,0,3.59
+31359,CS,418,Interactive Computer Graphics,AL1,LEC,120131,"Hart, John C",5,68,1,25,21,8,5,5,0,2,6,0,1,0,3.37
+31375,CS,421,Progrmg Languages & Compilers,B3,LCD,120131,"Kamin, Samuel N",17,56,8,10,12,7,9,19,2,0,7,0,3,1,3.19
+31378,CS,423,Operating Systems Design,C3,LCD,120131,"Nahrstedt, Klara",9,14,2,4,6,0,0,2,0,0,0,0,0,0,3.64
+31384,CS,425,Distributed Systems,T3,LCD,120131,"Borisov, Nikita",7,9,17,6,9,4,2,2,2,1,1,0,4,1,3.11
+31389,CS,428,Software Engineering II,Q3,LCD,120131,"Dig, Daniel",0,4,10,1,7,6,0,0,0,0,0,0,0,0,3.32
+41483,CS,429,"Software Engineering II, ACP",Q3,LCD,120131,"Dig, Daniel",8,15,27,10,23,17,0,5,2,0,0,0,1,0,3.26
+31393,CS,431,Embedded Systems,AL3,LEC,120131,"Sha, Lui R",8,13,3,10,13,8,2,0,0,0,0,0,0,0,3.39
+31405,CS,433,Computer System Organization,S3,LCD,120131,"Adve, Sarita V",3,14,7,6,6,4,0,1,0,0,0,0,1,0,3.42
+31410,CS,438,Communication Networks,R3,LCD,120131,"Kravets, Robin H",4,13,9,3,13,4,1,7,1,1,5,0,8,0,2.68
+31423,CS,440,Artificial Intelligence,Q3,LCD,120131,"DeJong, Gerald F",3,19,7,4,17,7,7,7,8,1,6,2,0,2,2.84
+31427,CS,450,Numerical Analysis,B3,LCD,120131,"Hirani, Anil N",1,16,4,7,11,1,5,20,3,0,4,0,8,1,2.6
+48198,CS,461,Computer Security I,IA3,LCD,120131,"Nicol, David M",4,5,16,10,23,5,10,5,2,0,2,0,0,0,3.05
+48205,CS,463,Computer Security II,P3,LCD,120131,"Gunter, Carl",0,15,0,0,8,0,0,6,0,0,3,0,1,0,3.06
+43587,CS,465,User Interface Design,M3,LCD,120131,"Fu, Wai-Tat",5,13,13,13,19,6,3,4,0,0,4,0,1,0,3.16
+54552,CS,466,Introduction to Bioinformatics,B3,LCD,120131,"Sinha, Saurabh",3,9,3,3,8,3,2,2,1,0,1,0,1,0,3.15
+56868,CS,467,Social Visualization,SV3,LCD,120131,"Karahalios, Kyratso G",13,27,15,4,0,0,0,0,0,0,0,0,2,0,3.76
+31457,CS,473,Fundamental Algorithms,AL1,LEC,120131,"Har-Peled, Sariel",1,5,5,4,10,7,8,8,7,0,2,1,2,1,2.56
+31552,CS,473,Fundamental Algorithms,AL2,LEC,120131,"Kolla, Alexandra",2,3,3,6,5,7,9,11,6,3,1,0,0,0,2.55
+31260,CS,493,"Senior Project II, ACP",CS,LCD,120131,"Woodley, Michael J",0,17,5,5,1,0,0,0,0,0,0,0,1,0,3.66
+31601,CS,498,Cloud Computing,CC3,LEC,120131,"Campbell, R H",6,27,9,12,7,12,7,4,2,0,1,0,0,0,3.33
+56907,CS,498,Intro to Parallel Programming,DP3,LEC,120131,"Padua, David A",0,6,0,4,7,0,2,7,1,0,1,2,0,0,2.75
+58505,CS,498,Art and Science of Web Progrm,SK3,LEC,120131,"King, Samuel T",0,22,6,1,3,1,0,0,3,0,0,0,0,0,3.59
+31604,CS,512,Data Mining Principles,F,LCD,120131,"Han, Jiawei",10,34,20,6,2,1,3,0,0,0,0,0,1,0,3.7
+46186,CS,525,Advanced Distributed Systems,S,LEC,120131,"Gupta, Indranil",5,7,12,2,0,0,0,0,0,0,0,0,0,0,3.8
+58500,CS,528,Obj-Oriented Progrmg & Design,OPD,LEC,120131,"Johnson, Ralph E",0,29,0,0,12,0,0,0,0,0,0,0,0,0,3.71
+31610,CS,533,Parallel Computer Architecture,S,LCD,120131,"Torrellas, Josep",6,9,3,0,8,0,0,0,0,0,0,0,0,0,3.65
+50117,CS,555,Numerical Methods for PDEs,N,LEC,120131,"Olson, Luke",0,21,3,6,1,5,0,1,0,0,0,0,0,0,3.6
+46236,CS,565,Human-Computer Interaction,S,LEC,120131,"Bailey, Brian P",1,7,10,4,7,0,0,3,0,0,0,0,1,0,3.3

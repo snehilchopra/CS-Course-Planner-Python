@@ -1,0 +1,72 @@
+﻿CRN,Subject,Number,Title,Section,Type,Term,Instructor,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,E,F,Average
+31018,CS,101,Intro Computing: Engrg & Sci,AL1,LEC,120141,"Gambill, Thomas N",51,41,29,31,22,20,18,11,11,7,4,5,14,0,3.02
+31020,CS,101,Intro Computing: Engrg & Sci,AL2,LEC,120141,"Gambill, Thomas N",62,33,30,25,20,17,15,18,10,11,4,3,9,2,3.06
+31128,CS,105,Intro Computing: Non-Tech,AL2,LEC,120141,"Fagen, Wade A",35,82,62,70,59,35,32,23,8,7,5,5,6,2,3.15
+31152,CS,125,Intro to Computer Science,AL1,LEC,120141,"Angrave, Lawrence C",21,52,21,32,10,12,9,6,9,0,7,0,9,2,3.15
+31155,CS,125,Intro to Computer Science,AL2,LEC,120141,"Angrave, Lawrence C",39,57,17,21,18,7,6,9,7,0,3,0,4,5,3.38
+48263,CS,173,Discrete Structures,ADB,DIS,120141,"Fleck, Margaret M",4,4,8,2,3,5,3,0,2,0,0,0,1,0,3.15
+48264,CS,173,Discrete Structures,ADC,DIS,120141,"Fleck, Margaret M",2,2,2,8,4,1,4,2,2,2,1,0,0,0,2.83
+57329,CS,173,Discrete Structures,ADD,DIS,120141,"Fleck, Margaret M",5,5,3,3,6,2,2,1,1,0,1,1,1,0,3.04
+57330,CS,173,Discrete Structures,ADE,DIS,120141,"Fleck, Margaret M",2,1,4,6,8,4,4,1,1,1,0,0,0,0,2.99
+57446,CS,173,Discrete Structures,ADF,DIS,120141,"Fleck, Margaret M",3,0,2,5,5,3,4,3,1,2,0,2,1,0,2.58
+48265,CS,173,Discrete Structures,ADG,DIS,120141,"Fleck, Margaret M",1,6,1,5,8,5,3,2,3,3,1,0,1,0,2.73
+48266,CS,173,Discrete Structures,BDA,DIS,120141,"Fleck, Margaret M",5,2,2,3,6,7,2,3,0,0,1,0,1,0,2.93
+48267,CS,173,Discrete Structures,BDB,DIS,120141,"Fleck, Margaret M",3,4,6,3,6,1,0,5,0,1,0,0,0,0,3.17
+50441,CS,173,Discrete Structures,BDC,DIS,120141,"Fleck, Margaret M",1,4,4,2,4,2,3,5,2,1,1,2,1,0,2.58
+50442,CS,173,Discrete Structures,BDD,DIS,120141,"Fleck, Margaret M",2,2,3,3,6,2,2,4,0,0,1,2,4,0,2.43
+51089,CS,173,Discrete Structures,BDF,DIS,120141,"Fleck, Margaret M",4,5,7,2,6,6,3,4,0,1,0,0,0,1,3.12
+50093,CS,173,Discrete Structures,BDG,DIS,120141,"Fleck, Margaret M",3,4,8,3,6,1,0,2,1,0,2,0,1,0,3.09
+61103,CS,173,Discrete Structures,BDH,DIS,120141,"Fleck, Margaret M",1,3,4,3,7,1,0,2,2,1,1,1,3,0,2.58
+31193,CS,196,Freshman Honors,25,LCD,120141,"Angrave, Lawrence C",13,45,1,1,0,0,0,1,0,0,0,0,1,0,3.89
+31195,CS,196,Freshman Honors,73,LCD,120141,"Fleck, Margaret M",16,19,3,1,2,1,1,0,3,0,0,0,0,1,3.7
+48739,CS,199,Undergraduate Open Seminar,CH,LCD,120141,"Heeren, Cinda",0,9,0,0,7,0,0,6,0,0,1,0,1,0,2.92
+31197,CS,199,Undergraduate Open Seminar,LA1,LEC,120141,"Angrave, Lawrence C",0,26,0,0,2,0,0,2,0,0,0,0,1,0,3.68
+31206,CS,210,Ethical & Professional Issues,2,LCD,120141,"Kirlik, Alex",5,56,21,54,23,2,3,5,1,2,3,6,0,1,3.33
+31208,CS,225,Data Structures,AL1,LEC,120141,"Heeren, Cinda",1,53,17,17,22,17,11,11,6,0,12,0,10,2,2.92
+31213,CS,225,Data Structures,AL2,LEC,120141,"Heeren, Cinda",1,65,13,15,23,12,9,19,3,0,12,0,9,1,2.98
+59777,CS,225,Data Structures,AL3,LEC,120141,"Heeren, Cinda",3,42,14,24,29,10,12,10,3,0,18,0,5,2,2.92
+43556,CS,241,System Programming,AL1,LEC,120141,"Caccamo, Marco",7,29,11,14,25,10,9,11,8,6,8,5,7,2,2.72
+43557,CS,242,Programming Studio,AL1,LEC,120141,"Woodley, Michael J",33,75,19,18,8,3,3,8,0,4,4,0,1,1,3.56
+31262,CS,296,Honors Course,25,LCD,120141,"Heeren, Cinda",3,57,5,2,5,3,0,0,0,0,0,0,0,2,3.84
+61175,CS,296,Honors Course,33,LCD,120141,"Zilles, Craig",0,18,0,1,3,3,0,3,0,0,2,0,0,1,3.34
+50106,CS,357,Numerical Methods I,M,LCD,120141,"Semeraro, Bart D",5,19,23,26,35,27,19,16,9,8,3,6,2,0,2.79
+50142,CS,373,Theory of Computation,AL1,LEC,120141,"Meseguer, Jose",5,26,21,7,15,14,14,24,6,4,3,1,3,0,2.84
+58541,CS,398,Computer Architecture,AL1,LEC,120141,"Zilles, Craig",9,44,11,8,65,7,5,21,2,2,12,2,11,1,2.84
+46258,CS,410,Text Information Systems,B3,LEC,120141,"Zhai, Chengxiang",9,57,7,13,2,2,0,1,0,0,0,0,2,0,3.74
+31352,CS,411,Database Systems,N3,LCD,120141,"Cunningham, Ryan M",15,82,27,11,46,8,3,2,0,0,1,0,0,0,3.57
+31357,CS,414,Multimedia Systems,C3,LCD,120141,"Nahrstedt, Klara",0,11,6,2,12,3,1,3,1,0,0,0,0,0,3.25
+31359,CS,418,Interactive Computer Graphics,AL1,LEC,120141,"Hart, John C",10,72,23,37,4,12,7,7,1,0,0,0,5,1,3.45
+31375,CS,421,Progrmg Languages & Compilers,B3,LCD,120141,"Rosu, Grigore",16,33,23,20,29,11,15,12,8,0,7,2,3,1,3.04
+31378,CS,423,Operating Systems Design,C3,LCD,120141,"Abdelzaher, Tarek",15,19,7,2,1,1,0,0,0,0,0,0,0,0,3.87
+61027,CS,423,Operating Systems Design,D3,LCD,120141,"Abdelzaher, Tarek",8,9,3,2,1,0,0,0,0,0,1,0,0,0,3.75
+31384,CS,425,Distributed Systems,T3,LCD,120141,"Vaidya, Nitin H",5,17,17,18,17,2,7,4,0,0,2,0,1,0,3.25
+31389,CS,428,Software Engineering II,Q3,LCD,120141,"Marinov, Darko",0,3,6,2,8,6,2,0,1,0,0,0,0,0,3.11
+41483,CS,429,"Software Engineering II, ACP",Q3,LCD,120141,"Marinov, Darko",13,25,32,20,17,17,3,5,0,0,0,0,0,0,3.4
+31393,CS,431,Embedded Systems,AL3,LEC,120141,"Sha, Lui R",10,19,12,8,4,4,0,1,0,0,0,0,0,0,3.65
+31405,CS,433,Computer System Organization,S3,LCD,120141,"Adve, Sarita V",2,8,3,3,15,2,3,1,0,0,0,0,2,0,3.11
+31410,CS,438,Communication Networks,R3,LCD,120141,"Caesar, Matthew C",6,13,1,5,12,1,2,16,1,0,5,1,7,1,2.55
+31423,CS,440,Artificial Intelligence,Q3,LCD,120141,"DeJong, Gerald F",9,19,10,8,35,8,11,19,6,0,2,1,0,1,2.96
+31427,CS,450,Numerical Analysis,B3,LCD,120141,"Kloeckner, Andreas P",0,33,11,5,12,7,5,1,2,1,1,1,2,0,3.31
+57523,CS,460,Security Laboratory,R3,LEC,120141,"Bambenek, John C",0,13,2,5,0,1,0,1,0,0,0,0,1,0,3.52
+50112,CS,460,Security Laboratory,S3,LEC,120141,"Bambenek, John C",1,16,2,1,0,0,0,1,0,0,0,0,0,1,3.85
+57997,CS,460,Security Laboratory,T3,LEC,120141,"Bambenek, John C",0,11,1,3,1,1,0,2,0,0,0,0,2,0,3.19
+48198,CS,461,Computer Security I,IA3,LCD,120141,"Bobba, Rakesh",8,10,8,9,22,11,7,6,9,0,1,0,1,0,2.96
+48205,CS,463,Computer Security II,P3,LCD,120141,"Gunter, Carl",0,18,0,0,16,0,0,3,0,0,0,0,0,1,3.43
+54552,CS,466,Introduction to Bioinformatics,B3,LCD,120141,"Sinha, Saurabh",3,13,9,5,5,6,0,0,0,0,0,0,1,0,3.47
+56868,CS,467,Social Visualization,SV3,LCD,120141,"Karahalios, Kyratso G",11,26,31,10,8,1,0,3,0,0,0,0,1,0,3.61
+31457,CS,473,Fundamental Algorithms,AL1,LEC,120141,"Chekuri, Chandra S",7,25,20,25,19,16,16,21,7,4,1,3,6,0,2.85
+60443,CS,484,Parallel Programming,PP3,LEC,120141,"Padua, David A",0,4,1,0,7,0,0,7,0,0,3,0,0,0,2.64
+31260,CS,493,"Senior Project II, ACP",CS,LCD,120141,"Woodley, Michael J",18,14,18,9,0,0,0,0,0,0,0,0,0,0,3.8
+60162,CS,498,Algorithms and Models of Comp,374,LCD,120141,"Pitt, Leonard B",0,3,6,4,4,2,3,4,1,5,3,0,1,2,2.53
+31601,CS,498,Cloud Computing,CC3,LEC,120141,"Campbell, R H",19,30,20,10,10,2,0,0,0,0,0,0,0,0,3.72
+59208,CS,498,Using Tech to Solve Adv Probs,U,LCD,120141,"Clifton, Rhiannon L",0,11,5,2,3,0,1,0,0,0,0,0,0,0,3.65
+31602,CS,511,Advanced Data Management,P,LCD,120141,"Chang, Kevin C",7,13,18,2,3,2,1,0,1,0,0,0,0,0,3.64
+31604,CS,512,Data Mining Principles,F,LCD,120141,"Han, Jiawei",10,34,11,5,5,1,1,3,1,0,0,0,0,0,3.67
+46186,CS,525,Advanced Distributed Systems,S,LEC,120141,"Gupta, Indranil",11,18,16,6,1,0,0,0,0,0,0,0,0,0,3.8
+31610,CS,533,Parallel Computer Architecture,S,LCD,120141,"Torrellas, Josep",6,10,0,3,4,0,0,0,0,0,0,0,0,0,3.74
+57440,CS,544,Optimiz in Computer Vision,CV,LCD,120141,"Forsyth, David A",0,29,0,2,0,0,0,0,0,0,0,0,0,0,3.96
+48178,CS,546,Machine Learning in NLP,S,LEC,120141,"Hockenmaier, Julia C",0,13,7,2,2,1,1,0,0,0,0,0,0,0,3.67
+50117,CS,555,Numerical Methods for PDEs,N,LEC,120141,"Olson, Luke",1,22,4,3,0,0,0,0,1,0,0,0,0,1,3.82
+46236,CS,565,Human-Computer Interaction,S,LEC,120141,"Bailey, Brian P",0,21,3,0,0,0,0,1,0,0,0,0,0,0,3.88
+60442,CS,574,Randomized Algorithms,RA,LEC,120141,"Har-Peled, Sariel",0,3,10,3,5,2,0,0,0,0,0,0,0,1,3.44
+60197,CS,598,Special Topics,SVA,LCD,120141,"Adve, Sarita V",14,3,1,0,2,1,0,0,0,0,0,0,0,0,3.83

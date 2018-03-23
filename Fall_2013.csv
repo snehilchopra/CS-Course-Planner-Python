@@ -1,0 +1,94 @@
+﻿CRN,Subject,Number,Title,Section,Type,Term,Instructor,A+,A,A-,B+,B,B-,C+,C,C-,D+,D,D-,E,F,Average
+30094,CS,100,Freshman Orientation,AL1,LEC,120138,"Pitt, Leonard B",0,222,0,5,16,0,5,4,0,2,1,0,9,1,3.7
+35886,CS,101,Intro Computing: Engrg & Sci,AYA,LBD,120138,"Gambill, Thomas N",5,4,6,4,6,3,6,0,3,1,0,0,1,0,3.02
+35889,CS,101,Intro Computing: Engrg & Sci,AYB,LBD,120138,"Gambill, Thomas N",2,5,2,4,0,4,3,1,5,2,1,4,3,0,2.31
+35890,CS,101,Intro Computing: Engrg & Sci,AYC,LBD,120138,"Gambill, Thomas N",3,2,6,3,3,6,2,2,4,0,1,2,2,0,2.63
+35893,CS,101,Intro Computing: Engrg & Sci,AYD,LBD,120138,"Gambill, Thomas N",5,6,3,5,7,5,1,3,2,1,1,0,0,0,3.08
+61077,CS,101,Intro Computing: Engrg & Sci,AYE,LBD,120138,"Gambill, Thomas N",10,3,4,6,5,3,3,1,2,2,0,0,1,1,3.12
+35915,CS,101,Intro Computing: Engrg & Sci,AYF,LBD,120138,"Gambill, Thomas N",6,1,2,5,2,5,1,6,1,2,3,0,3,0,2.51
+35896,CS,101,Intro Computing: Engrg & Sci,AYG,LBD,120138,"Gambill, Thomas N",5,8,2,6,3,4,4,1,2,3,0,3,0,0,2.92
+35899,CS,101,Intro Computing: Engrg & Sci,AYH,LBD,120138,"Gambill, Thomas N",4,4,3,1,3,4,3,4,2,2,2,0,3,1,2.54
+35902,CS,101,Intro Computing: Engrg & Sci,AYI,LBD,120138,"Gambill, Thomas N",7,4,7,3,1,1,2,4,3,2,1,1,1,0,2.9
+35907,CS,101,Intro Computing: Engrg & Sci,AYJ,LBD,120138,"Gambill, Thomas N",9,8,4,0,6,5,2,1,1,0,2,0,0,0,3.27
+35918,CS,101,Intro Computing: Engrg & Sci,AYK,LBD,120138,"Gambill, Thomas N",6,9,3,4,4,3,2,2,2,1,0,0,1,1,3.18
+61078,CS,101,Intro Computing: Engrg & Sci,AYL,LBD,120138,"Gambill, Thomas N",5,4,7,4,6,4,2,1,0,3,1,0,0,0,3.12
+35910,CS,101,Intro Computing: Engrg & Sci,AYM,LBD,120138,"Gambill, Thomas N",7,3,3,1,4,2,0,2,1,2,1,1,2,0,2.82
+35913,CS,101,Intro Computing: Engrg & Sci,AYN,LBD,120138,"Gambill, Thomas N",8,3,4,5,3,4,3,5,0,2,0,0,0,0,3.1
+47174,CS,105,Intro Computing: Non-Tech,AYA,LBD,120138,"Zhao, Kai",1,8,7,5,7,5,0,0,2,0,2,0,1,0,3.11
+35827,CS,105,Intro Computing: Non-Tech,AYB,LBD,120138,"Zhao, Kai",5,7,6,6,7,2,0,0,4,0,0,0,1,0,3.24
+35828,CS,105,Intro Computing: Non-Tech,AYC,LBD,120138,"Zhao, Kai",5,7,5,6,7,2,0,0,2,0,0,0,0,0,3.41
+35847,CS,105,Intro Computing: Non-Tech,AYD,LBD,120138,"Zhao, Kai",9,4,7,7,3,0,2,0,0,2,0,0,0,0,3.45
+35831,CS,105,Intro Computing: Non-Tech,AYE,LBD,120138,"Zhao, Kai",3,7,9,2,9,3,1,0,1,2,1,0,1,0,3.14
+35832,CS,105,Intro Computing: Non-Tech,AYF,LBD,120138,"Zhao, Kai",0,7,7,5,5,5,4,0,3,1,0,0,1,0,3.01
+35833,CS,105,Intro Computing: Non-Tech,AYG,LBD,120138,"Zhao, Kai",2,9,5,3,4,5,5,0,4,0,0,0,1,0,3.05
+35835,CS,105,Intro Computing: Non-Tech,AYH,LBD,120138,"Zhao, Kai",3,5,6,6,7,2,2,0,1,1,0,0,0,0,3.27
+35836,CS,105,Intro Computing: Non-Tech,AYI,LBD,120138,"Zhao, Kai",2,6,9,8,3,4,2,0,3,1,1,0,0,0,3.16
+35837,CS,105,Intro Computing: Non-Tech,AYJ,LBD,120138,"Zhao, Kai",3,5,5,4,7,4,5,0,4,1,0,0,0,0,3.03
+35838,CS,105,Intro Computing: Non-Tech,AYK,LBD,120138,"Zhao, Kai",6,8,7,4,8,0,1,0,2,0,0,0,0,1,3.46
+35840,CS,105,Intro Computing: Non-Tech,AYL,LBD,120138,"Zhao, Kai",1,9,7,5,7,2,0,0,5,0,1,0,1,0,3.11
+35843,CS,105,Intro Computing: Non-Tech,AYM,LBD,120138,"Zhao, Kai",3,2,9,5,8,2,1,0,2,0,0,2,1,0,3.03
+47175,CS,105,Intro Computing: Non-Tech,AYN,LBD,120138,"Zhao, Kai",3,5,8,6,6,1,4,0,5,0,0,1,2,0,2.94
+35851,CS,105,Intro Computing: Non-Tech,AYO,LBD,120138,"Zhao, Kai",4,9,7,1,4,4,2,0,1,0,0,0,0,1,3.44
+35854,CS,105,Intro Computing: Non-Tech,AYP,LBD,120138,"Zhao, Kai",4,6,8,4,9,4,0,0,2,0,1,0,0,0,3.28
+35856,CS,105,Intro Computing: Non-Tech,AYQ,LBD,120138,"Zhao, Kai",1,8,4,4,7,6,1,0,4,1,1,1,0,0,2.97
+35858,CS,105,Intro Computing: Non-Tech,AYR,LBD,120138,"Zhao, Kai",3,5,7,5,10,2,3,0,1,0,0,0,0,0,3.29
+35873,CS,105,Intro Computing: Non-Tech,AYS,LBD,120138,"Zhao, Kai",2,11,6,5,7,5,0,0,1,0,0,0,0,0,3.42
+47176,CS,105,Intro Computing: Non-Tech,AYT,LBD,120138,"Zhao, Kai",4,11,4,7,8,2,0,0,1,0,0,0,1,0,3.39
+47178,CS,105,Intro Computing: Non-Tech,AYU,LBD,120138,"Zhao, Kai",3,6,3,5,5,2,0,0,1,2,2,0,1,0,3.01
+35876,CS,125,Intro to Computer Science,AL1,LEC,120138,"Zilles, Craig",11,67,21,20,40,11,8,12,7,0,5,6,7,3,3.11
+35878,CS,125,Intro to Computer Science,AL2,LEC,120138,"Zilles, Craig",17,64,14,15,28,9,6,15,4,0,8,5,6,0,3.12
+51495,CS,173,Discrete Structures,ADA,DIS,120138,"Fleck, Margaret M",1,3,1,4,3,3,6,3,2,2,0,0,3,0,2.45
+51496,CS,173,Discrete Structures,ADB,DIS,120138,"Parthasarathy, Madhusudan",1,6,1,3,6,1,4,1,5,1,1,0,0,0,2.81
+51497,CS,173,Discrete Structures,ADC,DIS,120138,"Fleck, Margaret M",2,4,4,3,7,4,0,4,0,0,1,1,0,0,3
+51498,CS,173,Discrete Structures,ADD,DIS,120138,"Fleck, Margaret M",5,5,1,3,1,3,2,3,3,0,1,0,0,0,3.01
+51499,CS,173,Discrete Structures,ADE,DIS,120138,"Fleck, Margaret M",1,2,5,6,3,7,1,2,0,2,0,1,1,0,2.83
+60278,CS,173,Discrete Structures,ADF,DIS,120138,"Fleck, Margaret M",4,1,4,6,2,3,3,2,4,0,1,0,1,0,2.82
+51500,CS,173,Discrete Structures,BDA,DIS,120138,"Fleck, Margaret M",1,3,1,3,4,2,4,3,4,2,0,0,2,0,2.47
+51469,CS,173,Discrete Structures,BDB,DIS,120138,"Fleck, Margaret M",0,3,2,4,4,5,2,1,1,1,2,0,1,0,2.68
+58923,CS,173,Discrete Structures,BDC,DIS,120138,"Fleck, Margaret M",1,5,2,3,4,0,3,4,4,0,0,1,2,0,2.61
+59602,CS,173,Discrete Structures,BDD,DIS,120138,"Fleck, Margaret M",1,6,1,4,4,3,0,3,2,1,1,1,0,1,2.86
+59603,CS,173,Discrete Structures,BDE,DIS,120138,"Fleck, Margaret M",1,4,4,4,4,1,3,3,2,0,0,1,2,2,2.75
+60279,CS,173,Discrete Structures,BDF,DIS,120138,"Fleck, Margaret M",1,4,4,3,4,1,2,1,3,0,2,1,1,0,2.73
+31508,CS,196,Freshman Honors,25,LCD,120138,"Angrave, Lawrence C",11,58,0,0,2,0,0,0,0,0,0,0,0,0,3.97
+55186,CS,199,Undergraduate Open Seminar,LA1,LEC,120138,"Zilles, Craig",0,25,3,0,0,0,0,1,0,0,0,0,0,0,3.9
+35917,CS,225,Data Structures,AL1,LEC,120138,"Heeren, Cinda",3,68,21,12,33,14,9,15,7,0,5,0,4,2,3.17
+35919,CS,225,Data Structures,AL2,LEC,120138,"Heeren, Cinda",2,59,29,11,18,21,8,11,3,0,10,0,5,0,3.12
+61264,CS,225,Data Structures,AL3,LEC,120138,"Heeren, Cinda",0,38,11,1,10,7,6,4,3,0,6,0,5,1,3.05
+45300,CS,241,System Programming,AL1,LEC,120138,"Fagen, Wade A",3,24,19,14,29,16,17,9,10,0,15,0,16,1,2.58
+45325,CS,242,Programming Studio,AL1,LEC,120138,"Woodley, Michael J",9,33,34,27,21,6,7,7,2,1,2,0,1,1,3.32
+31518,CS,296,Honors Course,25,LCD,120138,"Heeren, Cinda",0,22,7,0,2,0,0,1,0,0,0,0,0,0,3.8
+53280,CS,357,Numerical Methods I,M,LCD,120138,"Semeraro, Bart D",33,28,28,22,30,11,10,11,3,1,4,2,3,0,3.21
+51739,CS,373,Theory of Computation,AL1,LEC,120138,"Viswanathan, Mahesh",7,51,28,29,23,17,14,11,9,6,0,0,0,0,3.2
+59584,CS,398,Computer Architecture,AL1,LEC,120138,"Garzaran, Maria J",4,42,6,12,64,3,4,35,0,2,12,3,6,3,2.81
+30109,CS,411,Database Systems,Q3,LCD,120138,"Chang, Kevin C",9,26,18,12,32,31,14,20,18,2,1,6,5,1,2.78
+48711,CS,412,Introduction to Data Mining,A3,LCD,120138,"Han, Jiawei",7,20,19,3,5,5,1,3,0,0,0,0,3,1,3.44
+43357,CS,412,Introduction to Data Mining,P3,LCD,120138,"Han, Jiawei",12,38,25,29,21,25,6,2,3,0,0,0,4,1,3.3
+36119,CS,418,Interactive Computer Graphics,AL1,LEC,120138,"Hart, John C",0,33,5,4,32,3,2,5,1,0,2,0,0,0,3.29
+53685,CS,420,Parallel Progrmg: Sci & Engrg,D3,LCD,120138,"Kale, Laxmikant V",4,18,8,9,11,4,3,1,3,0,2,1,0,0,3.29
+30128,CS,421,Progrmg Languages & Compilers,D3,LCD,120138,"Gunter, Elsa",5,30,15,16,18,8,11,8,3,2,2,1,4,1,3.06
+30132,CS,422,Programming Language Design,T3,LCD,120138,"Rosu, Grigore",8,9,2,0,0,3,0,0,0,0,0,0,0,0,3.79
+51775,CS,424,Real-Time Systems,P3,LCD,120138,"Abdelzaher, Tarek",2,7,9,10,4,2,1,2,0,0,0,0,0,0,3.42
+36091,CS,425,Distributed Systems,P3,LCD,120138,"Gupta, Indranil",11,22,44,18,5,1,0,0,0,0,0,0,0,0,3.68
+43355,CS,426,Compiler Construction,N3,LCD,120138,"Adve, Vikram S",3,6,6,3,4,0,0,0,0,0,1,0,2,0,3.3
+36104,CS,427,Software Engineering I,S3,LCD,120138,"Marinov, Darko",22,35,36,43,32,8,3,4,2,2,0,0,1,0,3.42
+40667,CS,431,Embedded Systems,AE3,LCD,120138,"Caccamo, Marco",3,5,4,5,10,1,0,19,0,0,5,0,2,0,2.57
+36069,CS,433,Computer System Organization,T3,LCD,120138,"Torrellas, Josep",3,7,0,1,6,2,0,2,0,0,0,0,1,0,3.27
+36061,CS,438,Communication Networks,X3,LCD,120138,"Vaidya, Nitin H",2,22,7,2,28,4,4,11,2,1,0,1,0,0,3.11
+36047,CS,440,Artificial Intelligence,Q3,LCD,120138,"Lazebnik, Svetlana",21,57,5,9,25,6,0,20,0,1,5,4,2,6,3.26
+46792,CS,446,Machine Learning,D3,LEC,120138,"Hockenmaier, Julia C",7,26,23,21,12,14,3,4,2,2,3,0,1,3,3.29
+36016,CS,450,Numerical Analysis,B3,LCD,120138,"Olson, Luke",0,39,13,16,18,5,6,6,10,5,1,5,6,0,2.97
+49546,CS,461,Computer Security I,A3,LEC,120138,"Bobba, Rakesh",9,10,18,12,11,16,10,6,2,1,0,0,0,0,3.14
+43388,CS,465,User Interface Design,M3,LCD,120138,"Fu, Wai-Tat",0,22,29,14,17,6,0,1,0,0,1,0,0,0,3.48
+35859,CS,473,Fundamental Algorithms,AE2,LCD,120138,"Erickson, Jeff G",6,24,17,23,20,16,20,23,14,10,8,3,4,2,2.67
+30139,CS,492,Senior Project I,CS,LCD,120138,"Woodley, Michael J",0,25,30,4,0,0,5,0,0,0,0,0,0,0,3.67
+61457,CS,498,Digital Forensics,AL1,LEC,120138,"Campbell, R H",0,21,0,0,1,0,0,0,0,0,0,0,1,0,3.78
+42376,CS,498,Probability in Computer Sci,DAF,LEC,120138,"Forsyth, David A",3,9,4,6,6,8,4,1,2,0,2,0,4,0,2.83
+55964,CS,498,Computational Photography,DH3,LEC,120138,"Hoiem, Derek W",4,7,9,2,2,0,0,0,1,0,0,0,0,0,3.68
+58253,CS,498,Socio-Computer Interaction,FU3,LEC,120138,"Fu, Wai-Tat",0,8,6,5,7,9,1,0,0,0,1,0,0,0,3.23
+59677,CS,523,Advanced Operating Systems,E,LCD,120138,"Campbell, R H",0,8,17,6,0,0,0,0,0,0,0,0,1,0,3.57
+35912,CS,527,Topics in Software Engineering,S,LCD,120138,"Xie, Tao",15,17,3,2,2,2,0,0,0,0,0,0,0,0,3.83
+58321,CS,538,Advanced Computer Networks,N,LCD,120138,"Godfrey, Philip B",3,36,3,1,0,1,0,0,0,0,0,0,0,0,3.93
+57701,CS,554,Parallel Numerical Algorithms,C,LCD,120138,"Heath, Michael T",3,6,12,5,2,3,0,0,0,0,0,0,0,0,3.57
+35933,CS,573,Algorithms,S,LCD,120138,"Har-Peled, Sariel",0,8,8,7,5,3,0,0,0,0,0,0,0,0,3.47
+35989,CS,598,Advanced Information Retrieval,CXZ,LCD,120138,"Zhai, Chengxiang",5,37,4,3,0,0,0,0,0,0,0,0,0,0,3.93
+46989,CS,598,Mach Lrng for Signal Processng,PS,LCD,120138,"Smaragdis, Paris",4,47,3,5,1,0,0,0,0,0,0,0,0,0,3.91
